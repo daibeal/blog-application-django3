@@ -66,9 +66,7 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Dairon Andrés Benites Aldaz - [@daibeal26](https://twitter.com/daibeal26) - daibeal@upv.edu.es <br>
-
-Project Link: [https://github.com/daibeal/entrega-tsr](https://github.com/daibeal/cpa-entregable)
+Dairon Andrés Benites Aldaz - [@daibeal26](https://twitter.com/daibeal26) - contact@andresbenites.es <br>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
