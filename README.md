@@ -7,14 +7,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/daibeal/entrega-tsr/blob/master/README.md">
+  <a href="https://github.com/daibeal/blog-application-django3/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/1200px-Circle-icons-computer.svg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Blog Application - Django3</h3>
 
   <p align="center">
-    Publicador rotatorio - Parametrización Broker - Estadísticas broker - Double brker no disconnect
+CRUD Operations and Admin Manager
     <br />
     <a href="/."><strong>Explore the docs »</strong></a>
     <br />
@@ -87,4 +87,4 @@ Project Link: [https://github.com/daibeal/entrega-tsr](https://github.com/daibea
 [license-url]: https://github.com/daibeal/cpa-entregable/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daibeal/
-[product-screenshot]: https://nordicapis.com/wp-content/uploads/cloud-database.jpg
+[product-screenshot]:https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
